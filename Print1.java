@@ -1,6 +1,6 @@
 package test1;
 
-public class Print {
+public class Print1 {
 
 	public static void main(String[] args) {
 	
